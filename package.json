@@ -4,7 +4,7 @@
   "description": "Simple to-do application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server --port=8000"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
     "webpack": "^4.42.1"
   },
   "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/jquery": "^3.3.34",
     "jquery": "^3.5.0"
   }
 }
