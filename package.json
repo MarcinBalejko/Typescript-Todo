@@ -18,9 +18,9 @@
   "homepage": "https://github.com/MarcinBalejko/Typescript-Todo#readme",
   "devDependencies": {
     "es6-promise": "^4.2.8",
-    "ts-loader": "^7.0.0",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "@types/es6-promise": "^3.3.0",
